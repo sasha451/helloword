@@ -1,3 +1,3 @@
 # helloword
-just another repositoty!
+just another repository!
 
