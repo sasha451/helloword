@@ -100,8 +100,8 @@
 
    ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/after5.PNG)
 
-   ##
-    6.Добавление информации о пустоте корзины.
+  ##
+   6.Добавление информации о пустоте корзины.
 
   **До**
 
