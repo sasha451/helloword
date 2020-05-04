@@ -77,7 +77,7 @@
  ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/after3.png)
 
  ##
-   4.Удаление поля номера телефона в форме регистрации.
+  4.Удаление поля номера телефона в форме регистрации.
 
   **До**
 
@@ -89,7 +89,7 @@
    ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/after4.png)
 
    ##
-     5.Перемещение кнопки сохранения товара.
+    5.Перемещение кнопки сохранения товара.
 
    **До**
 
