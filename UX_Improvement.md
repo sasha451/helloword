@@ -88,31 +88,31 @@
 
    ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/after4.png)
 
+  ##
+   5.Перемещение кнопки сохранения товара.
+
+  **До**
+
+   ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/before5.png)
+
+
+  **После**
+
+   ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/after5.PNG)
+
    ##
-    5.Перемещение кнопки сохранения товара.
+    6.Добавление информации о пустоте корзины.
 
-   **До**
+  **До**
 
-    ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/before5.png)
-
-
-   **После**
-
-    ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/after5.PNG)
-
-    ##
-     6.Добавление информации о пустоте корзины.
-
-   **До**
-
-    ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/before6.png)
+   ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/before6.png)
 
 
-   **После**
+  **После**
 
-    ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/after6.png)
+   ![](https://github.com/AndrewNaumenko/vseti/blob/master/labs/UXImprovement/after6.png)
 
-    ##
+   ##
 
 
 
